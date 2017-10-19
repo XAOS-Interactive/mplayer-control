@@ -1,0 +1,23 @@
+{
+  "name": "mplayer-control",
+  "version": "0.0.1",
+  "description": "Advanced MPlayer wrapper for nodejs",
+  "main": "main.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XAOS-Interactive/mplayer-control.git"
+  },
+  "keywords": [
+    "mplayer",
+    "wrapper",
+    "music",
+    "player",
+    "sound",
+    "media"
+  ],
+  "dependencies": {
+    "chalk": "^2.2.0",
+    "lodash": "^4.17.4"
+  }
+}
